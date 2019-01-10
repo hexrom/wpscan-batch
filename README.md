@@ -1,4 +1,4 @@
-#WPScan-Batch
+# WPScan-Batch
 
 WPScan does not support scanning from a targets file by default, this quick script allows you to do so.
 
